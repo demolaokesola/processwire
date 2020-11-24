@@ -1,0 +1,7 @@
+2020-11-15 15:44:25	guest	http://localhost:8080/	Compiled file: /site/templates/_init.php
+2020-11-15 15:44:25	guest	http://localhost:8080/	Compiled file: /site/templates/home.php
+2020-11-15 15:44:25	guest	http://localhost:8080/	Compiled file: /site/templates/_func.php
+2020-11-17 04:31:22	guest	http://localhost:8080/about/what/	Compiled file: /site/templates/basic-page.php
+2020-11-17 04:31:27	guest	http://localhost:8080/site-map/	Compiled file: /site/templates/sitemap.php
+2020-11-17 13:39:11	guest	http://localhost:8080/about/	Compiled file: /site/templates/basic-page.php
+2020-11-19 13:27:53	guest	http://localhost:8080/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php

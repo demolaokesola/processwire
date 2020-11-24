@@ -14,3 +14,14 @@
 2020-11-13 21:40:59	guest	http://localhost:8080/siteadmin/login/	Installed module 'InputfieldIcon'
 2020-11-13 21:40:59	guest	http://localhost:8080/siteadmin/login/	Saved module info caches
 2020-11-13 21:40:59	guest	http://localhost:8080/siteadmin/login/	Saved module 'SystemUpdater' config data
+2020-11-13 21:46:38	guest	http://localhost:8080/siteadmin/login/	Saved module 'SystemUpdater' config data
+2020-11-13 21:46:38	?	?	Saved module 'SystemUpdater' config data
+2020-11-13 21:46:38	?	?	Saved module info caches
+2020-11-13 21:46:38	admin	http://localhost:8080/siteadmin/?login=1	Saved module 'SystemUpdater' config data
+2020-11-13 21:46:39	admin	http://localhost:8080/siteadmin/page/?login=1	Saved module 'SystemUpdater' config data
+2020-11-13 21:46:39	?	?	Saved module info caches
+2020-11-13 21:46:39	?	?	Saved module 'SystemUpdater' config data
+2020-11-13 21:46:40	?	?	Saved module info caches
+2020-11-13 21:46:40	admin	http://localhost:8080/siteadmin/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
+2020-11-15 15:44:25	guest	http://localhost:8080/	Saved module 'SystemUpdater' config data
+2020-11-15 15:45:33	guest	http://localhost:8080/siteadmin/login/	Saved module 'SystemUpdater' config data
