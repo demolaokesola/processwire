@@ -6,15 +6,15 @@
 			<div class="row">
 				<div class="col-xl-3 col-lg-6">
 					<div class="footer-widget footer-widget__about">
-						<a href="index.html">
+						<a href="<?php echo $pages->get('home')->url; ?>">
 							<img src="<?php echo $config->urls->templates ?>assets/images/logo-2-2.png" alt="">
 						</a>
-						<p>But we must ipsum dolor sit amet con sectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
+						<p>KashAlat Limited is a non-bank Micro Credit Firm that is focused on providing fast and
+							need oriented Payroll based micro consumer loans in Nigeria.</p>
 						<div class="footer-widget__social">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-twitter"></i></a>
-							<a href="#"><i class="fab fa-google-plus-g"></i></a>
-							<a href="#"><i class="fab fa-behance"></i></a>
+							<a href="#"><i class="fab fa-instagram"></i></a>
 						</div><!-- /.footer-widget__social -->
 					</div><!-- /.footer-widget footer-widget__about -->
 				</div><!-- /.col-lg-3 -->
@@ -64,11 +64,11 @@
 						<ul class="footer-widget__contact-list list-unstyled">
 							<li>
 								<i class="far fa-envelope"></i>
-								<a href="mailto:support@gmail.com">support@gmail.com</a>
+								<a href="mailto:customercare@kashalatng.com">customercare@kashalatng.com</a>
 							</li>
 							<li>
 								<i class="far fa-phone"></i>
-								<a href="tel:+823-654-445-64">+823 654 445 64</a>
+								<a href="tel:+234 9 292 0254">+234 9 292 0254</a>
 							</li>
 						</ul><!-- /.footer-widget__contact-list -->
 					</div><!-- /.footer-widget footer-widget__post -->
@@ -78,7 +78,7 @@
 	</div><!-- /.site-footer-two__upper -->
 	<div class="site-footer-two__bottom">
 		<div class="container">
-			<p>Copy@2020 <a href="#">Bizkar</a>. All Right Reserved.</p>
+			<p>Copy@2020 <a href="#">KashAlat</a>. All Right Reserved.</p>
 		</div><!-- /.container -->
 	</div><!-- /.site-footer-two__bottom -->
 </div><!-- /.site-footer-two -->
@@ -97,7 +97,6 @@
 	</div><!-- /.side-menu__block-overlay -->
 	<div class="side-menu__block-inner ">
 		<div class="side-menu__top justify-content-end">
-
 			<a href="#" class="side-menu__toggler side-menu__close-btn"><img src="<?php echo $config->urls->templates ?>assets/images/shapes/close-1-1.png" alt=""></a>
 		</div><!-- /.side-menu__top -->
 
@@ -107,13 +106,12 @@
 		</nav>
 		<div class="side-menu__sep"></div><!-- /.side-menu__sep -->
 		<div class="side-menu__content">
-			<p>Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the industry's stanard dummy text ever. </p>
-			<p><a href="mailto:needhelp@bizkar.com">needhelp@bizkar.com</a> <br> <a href="tel:888-999-0000">888 999 0000</a></p>
+			<p>KashAlat Limited is a non-bank Micro Credit Firm that is focused on providing fast and need oriented Payroll based micro consumer loans in Nigeria.</p>
+			<p><a href="mailto:customercare@kashalatng.com">customercare@kashalatng.com</a> <br> <a href="tel:+234 9 292 0254">+234 9 292 0254</a></p>
 			<div class="side-menu__social">
 				<a class="fab fa-facebook-f" href="#"></a>
 				<a class="fab fa-twitter" href="#"></a>
 				<a class="fab fa-instagram" href="#"></a>
-				<a class="fab fa-pinterest-p" href="#"></a>
 			</div>
 		</div><!-- /.side-menu__content -->
 	</div><!-- /.side-menu__block-inner -->
@@ -149,6 +147,7 @@
 <script src="<?php echo $config->urls->templates ?>assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="<?php echo $config->urls->templates ?>assets/js/bootstrap-datepicker.min.js"></script>
 <script src="<?php echo $config->urls->templates ?>assets/js/isotope.js"></script>
+<script src="<?php echo $config->urls->templates ?>assets/js/tilt.jquery.min.js"></script>
 
 <!-- template scripts -->
 <script src="<?php echo $config->urls->templates ?>assets/js/theme.js"></script>

@@ -110,26 +110,26 @@
         $('.main-nav__main-navigation li.dropdown').children('a').append('<button class="dropdown-btn"><i class="fa fa-angle-right"></i></button>');
     }
 
-    function dynamicCurrentMenuClass(selector) {
-        let FileName = window.location.href.split('/').reverse()[0];
+    // function dynamicCurrentMenuClass(selector) {
+    //     let FileName = window.location.href.split('/').reverse()[0];
 
-        selector.find('li').each(function () {
-            let anchor = $(this).find('a');
-            if ($(anchor).attr('href') == FileName) {
-                $(this).addClass('current');
-            }
-        });
-        // if any li has .current elmnt add class
-        selector.children('li').each(function () {
-            if ($(this).find('.current').length) {
-                $(this).addClass('current');
-            }
-        });
-        // if no file name return 
-        if ('' == FileName) {
-            selector.find('li').eq(0).addClass('current');
-        }
-    }
+    //     selector.find('li').each(function () {
+    //         let anchor = $(this).find('a');
+    //         if ($(anchor).attr('href') == FileName) {
+    //             $(this).addClass('current');
+    //         }
+    //     });
+    //     // if any li has .current elmnt add class
+    //     selector.children('li').each(function () {
+    //         if ($(this).find('.current').length) {
+    //             $(this).addClass('current');
+    //         }
+    //     });
+    //     // if no file name return 
+    //     if ('' == FileName) {
+    //         selector.find('li').eq(0).addClass('current');
+    //     }
+    // }
 
     // mobile menu
 
@@ -156,8 +156,8 @@
         let mainNavUL = $('.main-nav__main-navigation').find('.main-nav__navigation-box');
         let mobileNavUL = mobileNavContainer.find('.main-nav__navigation-box');
 
-        dynamicCurrentMenuClass(mainNavUL);
-        dynamicCurrentMenuClass(mobileNavUL);
+        // dynamicCurrentMenuClass(mainNavUL);
+        // dynamicCurrentMenuClass(mobileNavUL);
 
 
     }

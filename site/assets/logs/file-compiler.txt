@@ -5,3 +5,46 @@
 2020-11-17 04:31:27	guest	http://localhost:8080/site-map/	Compiled file: /site/templates/sitemap.php
 2020-11-17 13:39:11	guest	http://localhost:8080/about/	Compiled file: /site/templates/basic-page.php
 2020-11-19 13:27:53	guest	http://localhost:8080/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php
+2020-11-24 10:03:39	guest	http://localhost:8080/contact-us/	Compiled file: /site/templates/basic-page.php
+2020-11-24 10:09:47	guest	http://localhost:8080/intanta-loans/payroll-lending/	Compiled file: /site/templates/basic-page.php
+2020-11-25 11:39:26	guest	http://localhost:8080/intanta-loans/	Compiled file: /site/templates/basic-page.php
+2020-11-25 11:41:21	guest	http://localhost:8080/intanta-loans/	Compiled file: /site/templates/basic-page.php
+2020-11-25 11:43:01	guest	http://localhost:8080/intanta-loans/	Compiled file: /site/templates/basic-page.php
+2020-12-05 13:41:38	guest	http://localhost:8080/	Maintenance/Copy new version of source file to target file: /site/templates/_head.php => /site/assets/cache/FileCompiler/site/templates/_head.php
+2020-12-08 10:59:11	guest	http://localhost:8080/	Maintenance/Copy new version of source file to target file: /site/templates/_foot.php => /site/assets/cache/FileCompiler/site/templates/_foot.php
+2020-12-08 11:25:53	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:44:45	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:45:13	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:46:02	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:47:59	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:49:14	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:52:12	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:53:31	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:55:32	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:56:09	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 11:58:59	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:00:13	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:02:33	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:05:02	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:06:47	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:08:14	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:10:04	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:10:21	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:10:54	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:11:55	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:12:34	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:12:47	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:13:06	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:14:36	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:15:00	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:16:00	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:17:33	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:18:16	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:18:35	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:23:29	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:25:08	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:26:56	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 12:27:10	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 13:28:50	guest	http://localhost:8080/about/	Compiled file: /site/templates/about-page.php
+2020-12-08 13:54:32	guest	http://localhost:8080/contact-us/	Compiled file: /site/templates/contact-page.php
+2020-12-08 21:48:22	guest	http://localhost:8080/contact-us/?message=	Compiled file: /site/templates/contact-page.php

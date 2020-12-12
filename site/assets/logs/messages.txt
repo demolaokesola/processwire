@@ -8,3 +8,4 @@
 2020-11-17 12:46:51	admin	http://localhost:8080/siteadmin/page/sort/	Updated sort for 2 pages (ProcessPageSort)
 2020-11-17 12:47:15	admin	http://localhost:8080/siteadmin/page/sort/	Updated sort for 5 pages (ProcessPageSort)
 2020-11-17 12:47:49	admin	http://localhost:8080/siteadmin/page/sort/	Updated sort for 5 pages (ProcessPageSort)
+2020-11-24 09:58:26	admin	http://localhost:8080/siteadmin/page/sort/	Updated sort for 4 pages (ProcessPageSort)

@@ -41,7 +41,7 @@
 			<nav class="main-nav__two stricky">
 				<div class="container">
 					<div class="main-nav__logo-box">
-						<a href="<?php echo $pages->get('/'); ?>">
+						<a href="<?php echo $pages->get('home')->url; ?>">
 							<img src="<?php echo $config->urls->templates ?>assets/images/logo-dark.png" alt="">
 						</a>
 					</div><!-- /.main-nav__logo-box -->
@@ -61,7 +61,7 @@
 									if ($child->id == $page->rootParent->id) {
 										// this $child page is currently being viewed (or one of it's children/descendents)
 										// so we highlight it as the current page in the navigation
-										echo "<li class='active' aria-current='true'><a href='$child->url'>$child->title</a></li>";
+										echo "<li class='current'><a href='$child->url'>$child->title</a></li>";
 									} else {
 										echo "<li><a href='$child->url'>$child->title</a></li>";
 									}
@@ -72,7 +72,7 @@
 										if ($grandchild->id == $page->rootParent->id) {
 											// this $child page is currently being viewed (or one of it's children/descendents)
 											// so we highlight it as the current page in the navigation
-											echo "<li class='active' aria-current='true'><a href='$grandchild->url'>$grandchild->title</a></li>";
+											echo "<li class='current'><a href='$grandchild->url'>$grandchild->title</a></li>";
 										} else {
 											echo "<li><a href='$grandchild->url'>$grandchild->title</a></li>";
 										}
@@ -89,7 +89,8 @@
 							?>
 						</ul>
 					</div><!-- /.main-nav__main-navigation -->
-					<div class="main-nav__right d-md-none">
+					<!-- <div class="main-nav__right d-md-none"> -->
+					<div class="main-nav__right">
 						<a href="#" class="side-menu__toggler"><span></span></a>
 						<!-- /.thm-btn -->
 					</div><!-- /.main-nav__right -->
@@ -97,13 +98,3 @@
 			</nav><!-- /.main-nav__one -->
 
 		</header><!-- /.site-header-one -->
-
-		<section class="page-header" style="background-image: url(<?php echo $config->urls->templates ?>assets/images/backgrounds/page-header-bg-1-1.jpg);">
-			<div class="container">
-				<h2>About Us</h2>
-				<ul class="list-unstyled thm-breadcrumb">
-					<li><a href="#">Home</a></li>
-					<li><span>About Us</span></li>
-				</ul><!-- /.list-unstyled thm-breadcrumb -->
-			</div><!-- /.container -->
-		</section><!-- /.page-header -->

@@ -48,14 +48,14 @@ font-family: 'Gilroy-ExtraBold';*/
 	--special-font-light: 'Gilroy-Light';
 	--special-font-bold: 'Gilroy-Bold';
 	--special-font-smb: 'Gilroy-SemiBold';
-	--thm-base: #ff57a4;
+	--thm-base: #03b600;
 	--thm-base-rgb: 255, 87, 164;
-	--thm-primary: #4275ff;
+	--thm-primary: #add042;
 	--thm-primary-rgb: 66, 117, 255;
-	--thm-black: #42495b;
+	--thm-black: #275996;
 	--thm-black-rgb: 66, 73, 91;
 	--thm-gray: #7b86f1;
-	--thm-gray-rgb: 123, 134, 241;
+	--thm-gray-rgb: 177, 177, 177;
 }
 
 
@@ -766,7 +766,7 @@ h6 {
 
 .main-nav__main-navigation .main-nav__navigation-box>li ul {
 	position: absolute;
-	width: 230px;
+	width: 250px;
 	background-color: #fff;
 	border-top: 2px solid var(--thm-base);
 	box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.05), -2px 0px 5px 1px rgba(0, 0, 0, 0.05);
@@ -895,7 +895,7 @@ h6 {
 }
 
 .main-nav__one .main-nav__right .thm-btn {
-	box-shadow: 0px 16px 30px 0px rgba(255, 87, 164, 0.64);
+	box-shadow: 0px 16px 30px 0px rgba(0, 99, 30, 0.64);
 }
 
 .main-nav__one .main-nav__right .thm-btn:hover {
@@ -2987,8 +2987,8 @@ h6 {
 	right: 0;
 	bottom: 0;
 	opacity: .9;
-	background-image: -webkit-gradient(linear, left bottom, left top, from(#4b28c4), to(#8b3fae));
-	background-image: linear-gradient(0deg, #4b28c4 0%, #8b3fae 100%);
+	background-image: -webkit-gradient(linear, left bottom, left top, from(#275996), to(#03b600));
+	background-image: linear-gradient(0deg, #275996 0%, #03b600 100%);
 }
 
 /* about page */
@@ -5156,7 +5156,7 @@ h6 {
 [class*=testimonials-one__carousel-btn-]:hover {
 	background-color: var(--thm-base);
 	border-color: var(--thm-base);
-	box-shadow: 0px 16px 32px 0px rgba(255, 87, 164, 0.56);
+	box-shadow: 0px 16px 32px 0px rgba(0, 88, 12, 0.56);
 	color: #fff;
 }
 
@@ -5994,8 +5994,8 @@ h6 {
 /* cta two about page */
 
 .cta-two__about-page::before {
-	background-image: -webkit-gradient(linear, left top, right top, from(#4b28c4), to(#8b3fae));
-	background-image: linear-gradient(90deg, #4b28c4 0%, #8b3fae 100%);
+	background-image: -webkit-gradient(linear, left top, right top, from(#275996), to(#03b600));
+	background-image: linear-gradient(90deg, #275996 0%, #03b600 100%);
 	background-color: transparent;
 }
 
@@ -9231,8 +9231,8 @@ h6 {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-image: -webkit-gradient(linear, left top, right top, from(rgba(75, 40, 196, .9)), to(rgba(139, 63, 174, .9)));
-	background-image: linear-gradient(90deg, rgba(75, 40, 196, .9) 0%, rgba(139, 63, 174, .9) 100%);
+	background-image: -webkit-gradient(linear, left top, right top, from(rgba(38, 19, 107, 0.9)), to(rgba(0, 145, 12, 0.9)));
+	background-image: linear-gradient(90deg, rgba(38, 19, 107, 0.9) 0%, rgba(0, 145, 12, 0.9) 100%);
 }
 
 .page-header .container {
